@@ -5,3 +5,5 @@
 	pip install webdriver-manager
 
 info.txt：有三个参数，一个是手机号，一个是名字，一个是留言信息。不要添加其他符号。
+
+群：https://t.me/callphoneboom
