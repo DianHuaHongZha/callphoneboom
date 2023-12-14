@@ -24,7 +24,3 @@ info.txt：有三个参数，一个是手机号，一个是名字，一个是留
 
 
 群：https://t.me/callphoneboom
-
-运行截图：
-    
-    ![](https://res.cloudinary.com/dxl1idlr5/image/upload/v1675247958/2023/02/ce181419ab91f325ac208e188904538a.png)
