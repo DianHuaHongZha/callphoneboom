@@ -27,7 +27,7 @@
  
 修改好你想设置的info.txt，然后运行：python main.pyc 即可
 
-info.txt：有三个参数，一个是手机号，一个是名字，一个是留言信息。不要添加其他符号。
+info.txt：有三个参数，一个是手机号，一个是名字，一个是留言信息。
 
 
 群：https://t.me/callphoneboom
