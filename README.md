@@ -30,4 +30,4 @@
 info.txt：有三个参数，一个是手机号，一个是名字，一个是留言信息。
 
 
-群：https://t.me/callphoneboom
+最新版来入群：https://t.me/callphoneboom
