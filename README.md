@@ -14,16 +14,8 @@
 ### 说明：
 
 1.先安装edge（如果有了则不用安装）
-
-2.然后安装python3.8+
-
-3.安装 Selenium
-
-	pip install selenium
  
-	pip install webdriver-manager
- 
-修改好你想设置的info.txt，然后运行：python main.pyc 即可
+修改好你想设置的info.txt，然后运行：python.exe main.pyc 即可
 
 info.txt：有三个参数，一个是手机号，一个是名字，一个是留言信息。
 
